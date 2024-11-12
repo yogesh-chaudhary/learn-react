@@ -1,16 +1,14 @@
 # Node artifact files
 node_modules/
-package-lock.json
 
-config.json
-*.env
-!sample.env
+# config.json
+# *.env
+# !sample.env
 
 # Unnecessary files
 temp.js
 raw-data.json
 .vscode
-
 
 # Log files
 *.log
