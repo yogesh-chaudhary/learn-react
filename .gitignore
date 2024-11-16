@@ -5,6 +5,9 @@ node_modules/
 dist/
 .parcel-cache/
 
+# Test files
+coverage/
+
 # Config files
 # config.json
 # *.env
